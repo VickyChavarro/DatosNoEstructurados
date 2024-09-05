@@ -1,2 +1,4 @@
 # DatosNoEstructurados
-40 artistas latinoamericanos
+El objetivo fue analizar las percepciones culturales y las influencias de estas figuras públicas mediante técnicas avanzadas de procesamiento de texto. Los datos provinieron de entradas de Wikipedia, y el proceso de preparación incluyó la limpieza del texto y la creación de representaciones numéricas mediante TF-IDF y embeddings. Estas técnicas capturan la importancia y el contexto semántico de las palabras, facilitando el análisis de las relaciones entre los artistas.
+
+Para el modelado, se aplicó t-SNE (t-distributed Stochastic Neighbor Embedding), una técnica de reducción de dimensionalidad que ayuda a visualizar las relaciones complejas en los datos textuales en un espacio bidimensional o tridimensional. Esta representación permitió identificar agrupaciones y patrones en las descripciones textuales de los artistas, revelando conexiones culturales y profesionales, así como destacando a personajes únicos o outliers en el conjunto de datos.
